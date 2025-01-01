@@ -1,0 +1,16 @@
+{
+  "name": "nn-newsletter-sms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "newsletter",
+    "subscription",
+    "email"
+  ],
+  "author": "Naveed Kamran",
+  "license": "ISC",
+  "description": ""
+}
